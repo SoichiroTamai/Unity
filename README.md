@@ -1,0 +1,2 @@
+-SceneCamera-
+Scene画面と同じようにGame画面で操作が出来るカメラ
